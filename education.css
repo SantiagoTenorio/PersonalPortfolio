@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: #003D79;
 }
 
 .hero {
@@ -65,15 +66,49 @@ nav ul li a:hover {
     transform: scale(1.2);
 }
 
+.content {
+    color: white;
+    padding-left: 8%;
+    padding-top: 25px;
+}
+
+.content h1 {
+    font-size: 75px;
+}
+
+.content h3 {
+    font-size: 25px;
+}
+
+.content h2 {
+    font-size: 25px;
+}
+
+.content img {
+    width: 550px;
+    display: flex;
+    justify-content: center;
+}
+
 /*Certifications*/
 .certifications {
     list-style: none;
     background-color: #003D79;
-    margin-left: 40px;
+    padding-left: 40px;
 }
 
 h4 {
     font-size: 75px;
     color: white;
-    margin-left: 40px;
+    padding-left: 33%;
+}
+
+.certifications img {
+    padding-bottom: 30px;
+}
+
+.certifications h2{
+    color: white;
+    font-size: 20px;
+    padding-top: 150px;
 }
