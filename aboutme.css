@@ -72,4 +72,20 @@ nav ul li a:hover {
     padding-top: 50px;
     display: flex;
     flex: auto;
+    padding-left: 100px;
+}
+
+.aboutme h2{
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 250px;
+}
+
+.info{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
 }
