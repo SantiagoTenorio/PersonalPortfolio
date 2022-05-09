@@ -103,7 +103,8 @@ h4 {
     border: 2px solid #D59F0F;
     outline: none;
     border-radius: 30px;
-    color: white;
+    color: black;
+    background-color: white;
 }
 
 .newslatter form input:last-child {
